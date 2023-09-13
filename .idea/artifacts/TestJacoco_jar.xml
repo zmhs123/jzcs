@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TestJacoco:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestJacoco_jar</output-path>
+    <root id="archive" name="TestJacoco.jar">
+      <element id="module-output" name="TestJacoco" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/lombok-1.18.24.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-core-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/accurate-test-sdk-0.1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-databind-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-annotations-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.jacoco.core-ee-qa-0.8.7.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.13.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/org.jacoco.report-ee-qa-0.8.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
