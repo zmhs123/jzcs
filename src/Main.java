@@ -12,5 +12,6 @@ public class Main {
         boolean result = CoverageOperate.merge(workspace, mergedExecFileName, null);
         System.out.println(result);
         System.out.println(result+"提交测试");
+        System.out.println(result+"提交测试222");
     }
 }
