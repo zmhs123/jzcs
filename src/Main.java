@@ -11,6 +11,6 @@ public class Main {
         String mergedExecFileName = "jacoco-211.exec";
         boolean result = CoverageOperate.merge(workspace, mergedExecFileName, null);
         System.out.println(result);
-        System.out.println(result+"提交测试");
+        System.out.println(result+"提交测试dev分支");
     }
 }
